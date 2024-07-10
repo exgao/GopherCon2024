@@ -1,0 +1,88 @@
+Hello, GopherCon 2024!
+[Normal]        cost 7          total: 39
+[Low]           cost 8          total: 39
+[Priority]      cost 1          total: 39
+[Normal]        cost 9          total: 55
+[Priority]      cost 2          total: 55
+[Low]           cost 8          total: 55
+[Normal]        cost 7          total: 50
+[Low]           cost 4          total: 50
+[Priority]      cost 6          total: 50
+[Normal]        cost 1          total: 67
+[Priority]      cost 5          total: 67
+[Low]           cost 9          total: 67
+-------------------- slowing down --------------------
+Apply interval 100ms
+Apply backoff 50ms
+[Normal]        cost 0          total: 51
+[Priority]      cost 5          total: 51
+Apply backoff 100ms
+Apply interval 100ms
+[Normal]        cost 6          total: 50
+[Priority]      cost 7          total: 56
+Apply backoff 200ms
+Apply interval 100ms
+[Priority]      cost 4          total: 60
+[Normal]        cost 6          total: 64
+Apply interval 100ms
+Apply backoff 400ms
+[Priority]      cost 5          total: 53
+Apply interval 100ms
+[Normal]        cost 4          total: 52
+[Priority]      cost 1          total: 56
+Apply backoff 800ms
+Apply interval 100ms
+[Priority]      cost 1          total: 50
+Apply interval 100ms
+[Priority]      cost 9          total: 52
+[Normal]        cost 6          total: 53
+Apply interval 100ms
+[Priority]      cost 3          total: 53
+Apply backoff 3200ms
+Apply interval 100ms
+[Priority]      cost 8          total: 55
+Apply interval 100ms
+[Priority]      cost 9          total: 52
+Apply interval 100ms
+[Priority]      cost 2          total: 61
+Apply interval 100ms
+[Priority]      cost 1          total: 48
+-------------------- speeding up --------------------
+[Priority]      cost 9          total: 64
+[Priority]      cost 5          total: 52
+[Priority]      cost 9          total: 52
+[Priority]      cost 9          total: 63
+[Priority]      cost 4          total: 72
+[Normal]        cost 0          total: 59
+[Priority]      cost 1          total: 59
+[Normal]        cost 7          total: 60
+[Priority]      cost 6          total: 55
+[Normal]        cost 0          total: 58
+[Priority]      cost 3          total: 58
+[Normal]        cost 6          total: 49
+[Priority]      cost 2          total: 55
+[Normal]        cost 2          total: 59
+[Priority]      cost 0          total: 61
+[Normal]        cost 9          total: 50
+[Priority]      cost 7          total: 62
+[Normal]        cost 2          total: 47
+[Priority]      cost 8          total: 61
+[Normal]        cost 6          total: 55
+[Priority]      cost 3          total: 58
+[Normal]        cost 8          total: 63
+[Priority]      cost 4          total: 71
+[Normal]        cost 1          total: 61
+All Priority messages received!
+[Normal]        cost 3          total: 51
+[Normal]        cost 9          total: 63
+[Normal]        cost 9          total: 57
+[Normal]        cost 3          total: 62
+[Normal]        cost 5          total: 58
+[Normal]        cost 7          total: 57
+[Normal]        cost 6          total: 50
+[Normal]        cost 6          total: 53
+[Normal]        cost 4          total: 61
+[Normal]        cost 2          total: 56
+[Normal]        cost 8          total: 58
+All Normal messages received!
+At least one consumer is stuck :(

@@ -1,0 +1,230 @@
+Hello, GopherCon 2024!
+[Low]           cost 10         total: 0
+[Normal]        cost 4          total: 10
+[Critical]      cost 7          total: 14
+[Priority]      cost 1          total: 21
+[Priority]      cost 10         total: 59
+[Low]           cost 7          total: 59
+[Critical]      cost 2          total: 59
+[Normal]        cost 3          total: 59
+-------------------- slowing down --------------------
+[Critical]      cost 4          total: 68
+backoff waited 100ms
+[Normal]        cost 7          total: 59
+interval waited 150ms
+[Priority]      cost 1          total: 66
+[Critical]      cost 3          total: 67
+[Critical]      cost 1          total: 58
+interval waited 150ms
+[Priority]      cost 7          total: 59
+backoff waited 200ms
+[Normal]        cost 4          total: 66
+[Critical]      cost 4          total: 50
+interval waited 150ms
+[Priority]      cost 5          total: 64
+[Critical]      cost 1          total: 60
+backoff waited 350ms
+[Normal]        cost 7          total: 62
+interval waited 150ms
+[Priority]      cost 7          total: 55
+[Critical]      cost 6          total: 62
+[Critical]      cost 2          total: 50
+backoff waited 350ms
+[Normal]        cost 5          total: 52
+interval waited 150ms
+[Priority]      cost 2          total: 57
+[Critical]      cost 4          total: 59
+interval waited 150ms
+[Priority]      cost 11         total: 51
+[Critical]      cost 7          total: 62
+backoff waited 350ms
+[Normal]        cost 0          total: 64
+[Critical]      cost 0          total: 44
+interval waited 150ms
+[Priority]      cost 11         total: 59
+[Critical]      cost 3          total: 70
+backoff waited 350ms
+[Normal]        cost 3          total: 63
+interval waited 150ms
+[Priority]      cost 0          total: 62
+[Critical]      cost 0          total: 51
+-------------------- speeding up --------------------
+[Low]           cost 0          total: 39
+[Critical]      cost 7          total: 50
+interval waited 150ms
+[Priority]      cost 4          total: 57
+backoff waited 350ms
+[Normal]        cost 0          total: 52
+block waited 250ms
+[Low]           cost 7          total: 52
+[Critical]      cost 7          total: 59
+interval waited 75ms
+[Priority]      cost 9          total: 55
+[Critical]      cost 6          total: 64
+backoff waited 87ms
+[Normal]        cost 2          total: 67
+block waited 125ms
+[Low]           cost 4          total: 56
+[Priority]      cost 6          total: 59
+[Critical]      cost 6          total: 65
+[Normal]        cost 0          total: 71
+block waited 62ms
+[Low]           cost 0          total: 71
+[Priority]      cost 6          total: 71
+[Critical]      cost 0          total: 73
+[Normal]        cost 8          total: 73
+-------------------- slowing down --------------------
+[Critical]      cost 6          total: 54
+interval waited 150ms
+[Priority]      cost 5          total: 60
+backoff waited 100ms
+[Normal]        cost 3          total: 57
+[Critical]      cost 5          total: 52
+interval waited 150ms
+[Priority]      cost 2          total: 62
+[Critical]      cost 0          total: 64
+backoff waited 200ms
+[Normal]        cost 8          total: 64
+[Critical]      cost 6          total: 51
+interval waited 150ms
+[Priority]      cost 9          total: 54
+[Critical]      cost 2          total: 52
+backoff waited 350ms
+[Normal]        cost 2          total: 54
+interval waited 150ms
+[Priority]      cost 11         total: 59
+[Critical]      cost 3          total: 59
+[Critical]      cost 7          total: 52
+interval waited 150ms
+[Priority]      cost 4          total: 59
+backoff waited 350ms
+[Normal]        cost 3          total: 52
+[Critical]      cost 4          total: 57
+interval waited 150ms
+[Priority]      cost 3          total: 50
+[Critical]      cost 7          total: 47
+backoff waited 350ms
+[Normal]        cost 5          total: 58
+[Critical]      cost 0          total: 61
+interval waited 150ms
+[Priority]      cost 11         total: 61
+[Critical]      cost 1          total: 51
+-------------------- speeding up --------------------
+[Low]           cost 0          total: 38
+[Normal]        cost 0          total: 38
+interval waited 150ms
+[Priority]      cost 7          total: 53
+[Critical]      cost 1          total: 60
+interval waited 75ms
+[Priority]      cost 8          total: 45
+[Critical]      cost 3          total: 53
+block waited 250ms
+[Low]           cost 1          total: 56
+backoff waited 350ms
+[Normal]        cost 3          total: 57
+[Priority]      cost 10         total: 45
+[Critical]      cost 0          total: 55
+block waited 125ms
+[Low]           cost 7          total: 55
+backoff waited 87ms
+[Normal]        cost 2          total: 51
+[Priority]      cost 1          total: 53
+[Critical]      cost 0          total: 54
+[Normal]        cost 3          total: 53
+block waited 62ms
+[Low]           cost 3          total: 56
+[Priority]      cost 8          total: 59
+[Critical]      cost 0          total: 67
+[Normal]        cost 4          total: 62
+[Low]           cost 6          total: 62
+[Priority]      cost 11         total: 55
+[Critical]      cost 0          total: 66
+[Normal]        cost 7          total: 59
+[Low]           cost 9          total: 59
+[Priority]      cost 4          total: 75
+[Critical]      cost 5          total: 75
+-------------------- slowing down --------------------
+[Critical]      cost 5          total: 67
+backoff waited 100ms
+[Normal]        cost 7          total: 72
+interval waited 150ms
+[Priority]      cost 0          total: 69
+[Critical]      cost 2          total: 69
+backoff waited 200ms
+[Normal]        cost 0          total: 56
+[Critical]      cost 3          total: 55
+interval waited 150ms
+[Priority]      cost 6          total: 58
+All Critical messages received!
+interval waited 150ms
+[Priority]      cost 5          total: 46
+backoff waited 350ms
+[Normal]        cost 0          total: 51
+-------------------- speeding up --------------------
+[Low]           cost 8          total: 37
+[Priority]      cost 10         total: 47
+interval waited 75ms
+[Priority]      cost 5          total: 54
+block waited 250ms
+[Low]           cost 5          total: 59
+backoff waited 350ms
+[Normal]        cost 6          total: 54
+[Priority]      cost 8          total: 58
+block waited 125ms
+[Low]           cost 6          total: 60
+backoff waited 87ms
+[Normal]        cost 4          total: 66
+[Priority]      cost 5          total: 57
+[Normal]        cost 2          total: 52
+block waited 62ms
+[Low]           cost 2          total: 54
+[Priority]      cost 4          total: 56
+[Normal]        cost 7          total: 57
+[Low]           cost 3          total: 64
+[Priority]      cost 6          total: 67
+[Normal]        cost 6          total: 68
+[Low]           cost 9          total: 63
+[Priority]      cost 9          total: 62
+[Normal]        cost 1          total: 66
+[Low]           cost 8          total: 67
+[Priority]      cost 10         total: 75
+-------------------- slowing down --------------------
+[Normal]        cost 2          total: 77
+interval waited 150ms
+[Priority]      cost 4          total: 62
+backoff waited 200ms
+[Normal]        cost 2          total: 55
+All Priority messages received!
+-------------------- speeding up --------------------
+[Normal]        cost 0          total: 31
+[Low]           cost 7          total: 31
+[Low]           cost 8          total: 50
+[Normal]        cost 0          total: 50
+backoff waited 175ms
+[Normal]        cost 3          total: 53
+block waited 125ms
+[Low]           cost 2          total: 50
+[Normal]        cost 9          total: 53
+block waited 62ms
+[Low]           cost 7          total: 62
+[Normal]        cost 4          total: 52
+[Low]           cost 3          total: 56
+[Normal]        cost 5          total: 54
+[Low]           cost 2          total: 59
+All Normal messages received!
+[Low]           cost 7          total: 54
+[Low]           cost 1          total: 58
+[Low]           cost 4          total: 58
+[Low]           cost 10         total: 58
+[Low]           cost 2          total: 52
+[Low]           cost 2          total: 53
+[Low]           cost 6          total: 54
+[Low]           cost 3          total: 56
+[Low]           cost 4          total: 59
+[Low]           cost 10         total: 51
+[Low]           cost 8          total: 52
+[Low]           cost 4          total: 56
+[Low]           cost 0          total: 52
+[Low]           cost 7          total: 62
+[Low]           cost 1          total: 52
+All Low messages received!

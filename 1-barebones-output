@@ -1,0 +1,282 @@
+Hello, GopherCon 2024!
+[Critical]      cost 6          total: 0
+[Priority]      cost 7          total: 43
+[Critical]      cost 1          total: 50
+[Priority]      cost 9          total: 51
+[Normal]        cost 3          total: 51
+[Critical]      cost 8          total: 40
+[Low]           cost 7          total: 48
+[Priority]      cost 3          total: 55
+[Normal]        cost 2          total: 55
+[Critical]      cost 8          total: 60
+[Low]           cost 5          total: 68
+[Normal]        cost 5          total: 67
+[Priority]      cost 6          total: 67
+[Critical]      cost 3          total: 57
+[Low]           cost 2          total: 60
+[Priority]      cost 6          total: 51
+[Normal]        cost 9          total: 51
+[Critical]      cost 6          total: 65
+[Low]           cost 2          total: 71
+[Normal]        cost 0          total: 73
+[Priority]      cost 0          total: 73
+[Critical]      cost 5          total: 64
+[Low]           cost 6          total: 61
+[Priority]      cost 2          total: 50
+[Normal]        cost 7          total: 50
+[Critical]      cost 2          total: 59
+[Low]           cost 0          total: 61
+[Normal]        cost 3          total: 60
+[Priority]      cost 3          total: 60
+[Critical]      cost 9          total: 61
+[Low]           cost 6          total: 70
+[Priority]      cost 1          total: 68
+[Normal]        cost 1          total: 69
+[Critical]      cost 4          total: 68
+[Low]           cost 9          total: 58
+[Normal]        cost 8          total: 62
+[Priority]      cost 1          total: 62
+[Critical]      cost 7          total: 62
+[Low]           cost 2          total: 69
+[Priority]      cost 5          total: 71
+[Normal]        cost 1          total: 71
+[Critical]      cost 4          total: 71
+[Low]           cost 2          total: 68
+[Normal]        cost 6          total: 65
+[Priority]      cost 2          total: 71
+[Critical]      cost 6          total: 71
+[Low]           cost 9          total: 77
+-------------------- slowing down --------------------
+applying delay on Normal
+[Priority]      cost 2          total: 82
+[Critical]      cost 3          total: 78
+applying delay on Low
+[Priority]      cost 2          total: 67
+[Critical]      cost 4          total: 61
+[Normal]        cost 0          total: 60
+-------------------- speeding up --------------------
+[Priority]      cost 8          total: 52
+[Low]           cost 4          total: 60
+[Critical]      cost 3          total: 55
+[Normal]        cost 2          total: 58
+[Priority]      cost 9          total: 49
+[Low]           cost 2          total: 58
+[Critical]      cost 6          total: 60
+[Normal]        cost 6          total: 56
+[Priority]      cost 6          total: 62
+[Low]           cost 4          total: 68
+[Critical]      cost 7          total: 68
+[Normal]        cost 7          total: 72
+[Priority]      cost 2          total: 79
+-------------------- slowing down --------------------
+applying delay on Low
+[Critical]      cost 8          total: 64
+applying delay on Normal
+[Priority]      cost 9          total: 70
+[Critical]      cost 9          total: 79
+[Low]           cost 3          total: 80
+[Priority]      cost 1          total: 74
+[Normal]        cost 1          total: 59
+[Critical]      cost 5          total: 60
+applying delay on Low
+[Priority]      cost 1          total: 60
+applying delay on Normal
+[Critical]      cost 3          total: 55
+[Priority]      cost 3          total: 58
+[Critical]      cost 7          total: 61
+[Low]           cost 9          total: 56
+[Normal]        cost 9          total: 51
+[Priority]      cost 6          total: 60
+[Critical]      cost 4          total: 66
+applying delay on Low
+applying delay on Normal
+[Priority]      cost 2          total: 52
+[Critical]      cost 8          total: 53
+[Priority]      cost 7          total: 58
+[Low]           cost 1          total: 65
+[Critical]      cost 3          total: 51
+[Normal]        cost 2          total: 53
+[Priority]      cost 6          total: 51
+applying delay on Low
+[Critical]      cost 0          total: 57
+applying delay on Normal
+[Priority]      cost 3          total: 59
+[Critical]      cost 6          total: 62
+[Low]           cost 6          total: 58
+[Priority]      cost 9          total: 64
+[Normal]        cost 6          total: 53
+[Critical]      cost 4          total: 59
+applying delay on Low
+[Priority]      cost 6          total: 52
+applying delay on Normal
+[Critical]      cost 4          total: 51
+[Priority]      cost 4          total: 53
+[Critical]      cost 9          total: 57
+[Low]           cost 2          total: 66
+[Normal]        cost 1          total: 59
+[Priority]      cost 9          total: 60
+[Critical]      cost 4          total: 60
+applying delay on Low
+applying delay on Normal
+[Priority]      cost 7          total: 58
+[Critical]      cost 4          total: 59
+[Priority]      cost 9          total: 57
+[Low]           cost 6          total: 66
+[Critical]      cost 5          total: 68
+[Normal]        cost 2          total: 62
+[Priority]      cost 7          total: 60
+applying delay on Low
+[Critical]      cost 9          total: 54
+applying delay on Normal
+[Priority]      cost 4          total: 56
+[Critical]      cost 3          total: 61
+[Low]           cost 7          total: 64
+[Priority]      cost 2          total: 71
+[Normal]        cost 5          total: 72
+[Critical]      cost 5          total: 77
+applying delay on Low
+[Priority]      cost 0          total: 80
+applying delay on Normal
+[Critical]      cost 0          total: 62
+[Priority]      cost 9          total: 55
+[Critical]      cost 8          total: 50
+[Low]           cost 0          total: 54
+[Normal]        cost 7          total: 54
+[Priority]      cost 1          total: 61
+[Critical]      cost 3          total: 60
+applying delay on Low
+applying delay on Normal
+[Priority]      cost 4          total: 56
+[Critical]      cost 5          total: 57
+[Priority]      cost 2          total: 54
+[Low]           cost 1          total: 51
+[Critical]      cost 8          total: 52
+[Normal]        cost 0          total: 60
+[Priority]      cost 0          total: 60
+applying delay on Low
+[Critical]      cost 7          total: 44
+-------------------- speeding up --------------------
+[Normal]        cost 1          total: 53
+[Priority]      cost 4          total: 54
+[Critical]      cost 2          total: 58
+[Normal]        cost 2          total: 57
+[Low]           cost 1          total: 59
+[Priority]      cost 1          total: 60
+[Critical]      cost 7          total: 61
+[Normal]        cost 8          total: 64
+[Low]           cost 2          total: 70
+[Priority]      cost 6          total: 58
+[Critical]      cost 4          total: 64
+[Normal]        cost 2          total: 68
+[Low]           cost 4          total: 69
+[Priority]      cost 8          total: 59
+[Critical]      cost 0          total: 59
+[Normal]        cost 5          total: 52
+[Low]           cost 1          total: 55
+[Priority]      cost 0          total: 56
+[Critical]      cost 1          total: 56
+[Normal]        cost 2          total: 57
+[Low]           cost 5          total: 46
+[Priority]      cost 6          total: 50
+[Critical]      cost 9          total: 56
+[Normal]        cost 9          total: 65
+[Low]           cost 5          total: 74
+[Priority]      cost 3          total: 79
+-------------------- slowing down --------------------
+[Critical]      cost 2          total: 81
+applying delay on Normal
+applying delay on Low
+[Priority]      cost 5          total: 62
+[Critical]      cost 4          total: 61
+[Priority]      cost 0          total: 57
+[Normal]        cost 2          total: 57
+[Critical]      cost 4          total: 59
+[Low]           cost 2          total: 63
+[Priority]      cost 7          total: 57
+applying delay on Normal
+[Critical]      cost 3          total: 49
+applying delay on Low
+[Priority]      cost 8          total: 58
+[Critical]      cost 8          total: 51
+[Normal]        cost 6          total: 59
+[Priority]      cost 7          total: 65
+[Low]           cost 6          total: 65
+[Critical]      cost 1          total: 58
+applying delay on Normal
+[Priority]      cost 8          total: 52
+applying delay on Low
+[Critical]      cost 7          total: 60
+[Priority]      cost 4          total: 61
+[Critical]      cost 4          total: 54
+[Normal]        cost 7          total: 51
+[Low]           cost 0          total: 58
+[Priority]      cost 8          total: 58
+[Critical]      cost 5          total: 51
+applying delay on Normal
+applying delay on Low
+[Priority]      cost 5          total: 56
+[Critical]      cost 1          total: 55
+[Priority]      cost 6          total: 55
+[Normal]        cost 1          total: 57
+[Critical]      cost 9          total: 58
+[Low]           cost 2          total: 59
+[Priority]      cost 0          total: 61
+applying delay on Normal
+All Critical messages received!
+applying delay on Low
+All Priority messages received!
+-------------------- speeding up --------------------
+[Normal]        cost 6          total: 58
+[Low]           cost 1          total: 58
+[Normal]        cost 5          total: 55
+[Low]           cost 4          total: 60
+[Normal]        cost 7          total: 54
+[Low]           cost 6          total: 59
+[Normal]        cost 1          total: 56
+[Low]           cost 0          total: 53
+[Normal]        cost 6          total: 55
+[Low]           cost 7          total: 55
+[Normal]        cost 8          total: 51
+[Low]           cost 5          total: 48
+[Normal]        cost 3          total: 58
+[Low]           cost 5          total: 61
+[Normal]        cost 7          total: 56
+[Low]           cost 3          total: 63
+[Normal]        cost 0          total: 56
+[Low]           cost 3          total: 56
+[Normal]        cost 5          total: 54
+[Low]           cost 2          total: 59
+[Normal]        cost 4          total: 62
+[Low]           cost 1          total: 66
+[Normal]        cost 9          total: 51
+[Low]           cost 4          total: 60
+[Normal]        cost 7          total: 52
+[Low]           cost 0          total: 59
+[Normal]        cost 4          total: 56
+[Low]           cost 6          total: 57
+[Normal]        cost 8          total: 59
+[Low]           cost 0          total: 67
+[Normal]        cost 8          total: 40
+[Low]           cost 8          total: 51
+[Normal]        cost 7          total: 59
+[Low]           cost 0          total: 60
+[Normal]        cost 4          total: 57
+[Low]           cost 9          total: 61
+[Normal]        cost 7          total: 54
+[Low]           cost 2          total: 57
+[Normal]        cost 4          total: 60
+[Low]           cost 6          total: 64
+[Normal]        cost 6          total: 63
+[Low]           cost 1          total: 46
+[Normal]        cost 2          total: 62
+[Low]           cost 8          total: 64
+[Normal]        cost 4          total: 51
+[Low]           cost 0          total: 51
+[Normal]        cost 3          total: 52
+[Low]           cost 1          total: 49
+[Normal]        cost 5          total: 50
+[Low]           cost 8          total: 51
+All Normal messages received!
+[Low]           cost 5          total: 58
+[Low]           cost 2          total: 42
+All Low messages received!
